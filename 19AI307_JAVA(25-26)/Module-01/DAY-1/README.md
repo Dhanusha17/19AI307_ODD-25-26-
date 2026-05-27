@@ -13,6 +13,7 @@ System.out.printf() → prints formatted output
 To write a Java program that demonstrates the use of variables, data types, operators, and different print statements (print, println, and printf).
 
 ## ALGORITHM :
+
 1.	Start the program.   
 
 2.Import the required package java.util.* (optional).
